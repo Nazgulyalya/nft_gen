@@ -1,0 +1,30 @@
+{
+  "name": "Naz NFT #8",
+  "description": "This is a collection about muslim girls in hijab",
+  "image": "ipfs://QmWxKunRN29othRfGz1t4FA24CLwM4iwSHhQV66stGgsdX/8.png",
+  "edition": 8,
+  "date": 1697843200670,
+  "attributes": [
+    {
+      "trait_type": "back",
+      "value": "image 10"
+    },
+    {
+      "trait_type": "face",
+      "value": "Face 2"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes 2"
+    },
+    {
+      "trait_type": "lips",
+      "value": "lips 1"
+    },
+    {
+      "trait_type": "hijab",
+      "value": "hijab 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
